@@ -1,2 +1,2 @@
 # stj-demo-repo
-hello
+hello people
